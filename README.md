@@ -158,7 +158,3 @@ Deploy a health-focused chatbot:
 - Refer to markdown cells for explanations.
 
 ---
-
-## 🙌 Explore, Learn & Contribute
-
-Feel free to explore, fork, and extend these notebooks. Whether you're a beginner or looking to sharpen your Python data science skills, this repository will be a helpful guide. Happy Coding!
